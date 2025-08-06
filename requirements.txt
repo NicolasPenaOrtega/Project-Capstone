@@ -1,0 +1,9 @@
+rvest
+httr
+tidyverse
+fastDummies
+RSQLite
+poissonreg
+ggthemes
+plotly
+tidymodels
