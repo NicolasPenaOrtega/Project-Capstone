@@ -1,0 +1,26 @@
+{
+    "id": "D15A4DB5",
+    "path": "/media/nicolasp/Datos/R/Proyecto_capstone/Dashboard/server.R",
+    "project_path": "Dashboard/server.R",
+    "type": "r_source",
+    "hash": "2706141624",
+    "contents": "",
+    "dirty": false,
+    "created": 1754080580108.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "38,2",
+        "scrollLine": "25"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1754080839,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1754080839546,
+    "read_only": false,
+    "read_only_alternatives": []
+}
