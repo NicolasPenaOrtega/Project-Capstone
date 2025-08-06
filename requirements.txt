@@ -1,8 +1,0 @@
-# Check and install required packages
-required_packages <- c("rvest", "httr", "tidyverse", "fastDummies", "RSQLite", "poissonreg", "ggthemes", "plotly", "tidymodels")
-
-for (pkg in required_packages) {
-  if (!requireNamespace(pkg, quietly = TRUE)) {
-    install.packages(pkg)
-  }
-}
